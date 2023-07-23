@@ -3,4 +3,4 @@
 * Data manipulation using DPLYR
 
 ## Tasks
-* Explore and Transform data based on rows
+* Explore and Transform Data Based on Rows
