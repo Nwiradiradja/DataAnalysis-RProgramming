@@ -18,3 +18,10 @@
 * Building Line Plot and Histogram to analyze trends and patterns
 * Building Circular plots to analyze trends and patterns
 * Finding Correlation to understand the relationship between variables
+
+
+### Notes :
+* Upload graphs
+* Uploaded Side tasks
+* Upload Capstone
+* Upload Datasets
