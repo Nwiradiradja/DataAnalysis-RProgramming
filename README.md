@@ -1,6 +1,7 @@
 # DataAnalysis-RProgramming-DepartmentStoreProject
 * Utilizing R Studio to perform a series of tasks
 * Data manipulation using DPLYR
+* Data visualization using ggplot2, corrplot and ggcorrplot
 
 ## Project Scenario
 * You are provided with a dataset of a departmental store
