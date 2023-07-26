@@ -64,6 +64,3 @@
 ![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/Task2_Quantity_Demanded-Product_Type-OrganicFood.png?raw=true)
 
 
-### Notes :
-* Upload Capstone
-
