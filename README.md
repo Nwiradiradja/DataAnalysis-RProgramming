@@ -42,6 +42,26 @@
 ### Net Profit for Each Company
 ![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/Net_Profit-Company.png?raw=true)
 
+### Relationship between Quantity Demanded and Profit made for Beauty Products
+![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/Profit-Quantity_Demanded-Beauty_Products.png?raw=true)
+
+### Correlation between Product Ratings and Quantity Demanded
+![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/Correlation_Ratings-Quantity_Demanded.png?raw=true)
+
+### Pearson Correlation for the Above Graph 
+![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/PearsonCorrelation_Ratings-Quantity_Demanded.png?raw=true)
+
+### Quantity Demanded for Hygiene Products
+![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/PIE_Quantity_Demanded-Hygiene.png?raw=true)
+![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/DONUT_Quantity_Demanded-Hygiene.png?raw=true)
+![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/COXCOMB_Quantity_Demanded-Hygiene.png?raw=true)
+
+### Extra/Side Tasks Graphs
+#### Average Profit for each Company
+![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/Task2_Average_Profit-Company.png?raw=true)
+#### Quantity Demanded for Organic Food
+![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/Task2_Quantity_Demanded-Product_Type-OrganicFood.png?raw=true)
+
 
 ### Notes :
 * Upload Capstone
