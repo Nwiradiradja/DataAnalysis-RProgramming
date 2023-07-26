@@ -34,7 +34,7 @@
 ![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/Quantity_Demanded-Product_Category-SNACKS.png?raw=true)
 
 ### Average Net Profit for each Product Type
-![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/Average_Net_Profit-Product-Type.png?raw=true)
+![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/Average_Net_Profit-Product_Type.png?raw=true)
 
 ### Average Quantity Demanded for each Product Type
 ![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/Average_Quantity-Product_Type.png?raw=true)
