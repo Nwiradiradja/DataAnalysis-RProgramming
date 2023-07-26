@@ -6,3 +6,8 @@
   strategic decision making.(At this level, you don’t need to make reports/recommendations now.
 * You will build reports and make recommendations in future, with the knowledge you gained from 
   this project.)
+
+## Data Visualization
+![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/Capstone/CAPSTONE_COL.png?raw=true)
+![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/Capstone/CAPSTONE_SCATTER.png?raw=true)
+![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/Capstone/CAPSTONE_CORR_HEAT.png?raw=true)
