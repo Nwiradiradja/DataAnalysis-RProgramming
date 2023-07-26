@@ -22,6 +22,5 @@
 
 ### Notes :
 * Upload graphs
-* Uploaded Side tasks
 * Upload Capstone
 * Upload Datasets
