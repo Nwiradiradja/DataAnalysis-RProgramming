@@ -24,6 +24,9 @@
 ### Selling Price of Products and Quantity Demanded 
 ![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/Price_Demand.png?raw=true)
 
+### Relationship between Average Net Profit for each Company
+!1[](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/Average_Net_Profit-Company.png?raw=true)
+
 
 ### Notes :
 * Upload Capstone
