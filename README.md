@@ -39,6 +39,9 @@
 ### Average Quantity Demanded for each Product Type
 ![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/Average_Quantity-Product_Type.png?raw=true)
 
+### Net Profit for Each Company
+![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/Net_Profit-Company.png?raw=true)
+
 
 ### Notes :
 * Upload Capstone
