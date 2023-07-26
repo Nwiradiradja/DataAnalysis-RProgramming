@@ -2,6 +2,7 @@
 * Utilizing R Studio to perform a series of tasks
 * Data manipulation using DPLYR
 * Data visualization using ggplot2, corrplot and ggcorrplot
+* Pearson Correlation
 * Working with 500+ rows of data
 
 ## Project Scenario
