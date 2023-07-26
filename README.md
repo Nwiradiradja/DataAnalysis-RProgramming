@@ -20,8 +20,11 @@
 * Building Circular plots to analyze trends and patterns
 * Finding Correlation to understand the relationship between variables
 
+## Data Visualization
+### Selling Price of Products and Quantity Demanded 
+![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/Price_Demand.png?raw=true)
+
 
 ### Notes :
-* Upload graphs
 * Upload Capstone
 
