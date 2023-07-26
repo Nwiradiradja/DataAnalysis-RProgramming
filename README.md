@@ -27,6 +27,12 @@
 ### Relationship between Average Net Profit for each Company
 ![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/Average_Net_Profit-Company.png?raw=true)
 
+### The Profit Percentage for each Product Category
+![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/Profit_Percent-Product_Category.png?raw=true)
+
+### Quantity Demanded for Products that are Categorized as "Snacks"
+![](https://github.com/Nwiradiradja/DepartmentStoreProject/blob/main/DataVisualization/Quantity_Demanded-Product_Category-SNACKS.png?raw=true)
+
 
 ### Notes :
 * Upload Capstone
